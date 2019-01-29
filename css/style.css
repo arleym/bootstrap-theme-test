@@ -1,0 +1,25 @@
+body {
+  padding-top: 3.5em;
+  background-color: #eaeaea;
+}
+.example {
+  background-color: white;
+  padding: 2em;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ccc;
+}
+.card-grey {
+  background-color: #ccc;
+}
+.card-test {
+  box-shadow: 2px 2px 4px black;
+}
+.pattern-sub { margin-top: 2em; }
+.outlined, .example-grid [class*='col'] {
+  outline: 1px solid #c00;
+}
+.example-block {
+  width: 3em;
+  height: 3em;
+  margin: 0 1em;
+}
